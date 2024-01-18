@@ -4,7 +4,7 @@
     "bundleId": "clapps.tech.AppAlertExample",
     "title": "App Alert",
     "text": "Warning! There is a bug in this version of the application and your version of iOS and I am working on it ...",
-    "confirmLabel": "Ok"
+    "confirmLabel": "Ok",
     "osVersions": ["17.0.1", "17.2"],
     "appVersions": ["1.0"],
     "link": {
